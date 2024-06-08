@@ -1,0 +1,3 @@
+this is real time weather application...<br>
+used beautifulsoup for web scrapping....<br>
+used tkinter for GUI....
